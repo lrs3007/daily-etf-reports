@@ -11,10 +11,14 @@
             "id": "fad4e3d08c07e493",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260602_daily_strategy_advice/next_trading_day_strategy_advice.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "next_trading_day_strategy_advice"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "fad4e3d08c07e493",
   "lastOpenFiles": [
+    "20260602_daily_strategy_advice/strategy_advice.json",
+    "20260602_daily_strategy_advice/next_trading_day_strategy_advice.pdf",
     "20260602_daily_strategy_advice/etf_snapshot.csv",
     "20260602_daily_strategy_advice/planned_orders.csv",
     "20260602_daily_strategy_advice/next_trading_day_strategy_advice.md",
@@ -192,8 +198,6 @@
     "20260602_daily_strategy_advice/price_signal_charts/510880_strategy_signal_price.png",
     "20260602_daily_strategy_advice/price_signal_charts/510500_strategy_signal_price.png",
     "20260602_daily_strategy_advice/price_signal_charts/510300_strategy_signal_price.png",
-    "20260602_daily_strategy_advice/strategy_advice.json",
-    "20260602_daily_strategy_advice/next_trading_day_strategy_advice.pdf",
     "20260601_daily_strategy_advice/strategy_advice.json",
     "20260601_daily_strategy_advice/next_trading_day_strategy_advice.pdf",
     "20260601_daily_strategy_advice/etf_snapshot.csv",
